@@ -1,0 +1,14 @@
+.contact-card{
+    width: 350px;
+    padding: 10px;
+    border: 1px solid  #ff99ff;
+    margin:15px;
+    border-radius: 10px;
+    background-color:  #ffccff;
+
+}
+
+.name-tag{
+    margin: 0px;
+    margin-bottom: 10px;
+}
