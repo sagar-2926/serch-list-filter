@@ -18,8 +18,9 @@ function App (){
     return (
         <>
            
-           
 
+        <div className="body">
+               
            <div className='main-container'>
            <p className='heading-text'>Contact list  ≡</p>
           <input type='text' className='search' placeholder='search'
@@ -40,6 +41,10 @@ function App (){
           }
 
           </div>
+
+           </div>
+
+           
         </>
     )
 }
